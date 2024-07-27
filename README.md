@@ -28,6 +28,8 @@
     $ cd catkin/src/arduino_robot_arm/robot_arm_pkg/scripts 
     $ sudo chmod +x joint_states_to_gazebo.py
     $ rosrun robot_arm_pkg joint_states_to_gazebo.py 
+![Screenshot 2024-07-27 050510](https://github.com/user-attachments/assets/1d14869c-e746-49ec-91af-ccd067e8619f)
+
 
  # MoveIt controlling
     $ roslaunch moveit_pkg demo.launch
