@@ -19,4 +19,16 @@
     $ catkin_make
 
 
+ # Controlling the motors in simulation
+ 
+    $ roslaunch robot_arm_pkg check_motors.launch 
+    $ roslaunch robot_arm_pkg check_motors_gazebo.launch 
+     
+     change the permission:
+    $ cd catkin/src/arduino_robot_arm/robot_arm_pkg/scripts 
+    $ sudo chmod +x joint_states_to_gazebo.py
+    $ rosrun robot_arm_pkg joint_states_to_gazebo.py 
 
+ # MoveIt controlling
+    $ roslaunch moveit_pkg demo.launch
+    $ roslaunch moveit_pkg demo_gazebo.launch
