@@ -1,8 +1,8 @@
 # Robot-arm-simulation-on-ROS
 /// 
 Some problems I encountered: 
-   - E: Unable to correct problems, you have held broken packages. >>> The solve: https://youtu.be/8Mifs6eRK40?si=j2xy3BwF6mdiJCPv ....
-    ..... _ :I encountered the error "catkin_: command not found"
+   - E: Unable to correct problems, you have held broken packages. >>> The solve: https://youtu.be/8Mifs6eRK40?si=j2xy3BwF6mdiJCPv .......
+   - I encountered the error "catkin_: command not found"
                                                               ///
                                                               
 # First: Create a workspace by using catkin_make  
