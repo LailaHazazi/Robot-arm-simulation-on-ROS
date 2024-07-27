@@ -32,3 +32,4 @@
  # MoveIt controlling
     $ roslaunch moveit_pkg demo.launch
     $ roslaunch moveit_pkg demo_gazebo.launch
+![Screenshot 2024-07-27 052115](https://github.com/user-attachments/assets/a188d093-056e-4c55-bc9d-82f9ec298e4e)
