@@ -4,7 +4,7 @@
 First: Create a workspace by using catkin_make >>> http://wiki.ros.org/catkin/Tutorials/create_a_workspace
 
 Second: Installing the package arduino robot arm
-$ cd ~/catkin_ws/src 
+# $ cd ~/catkin_ws/src 
 $ sudo apt install git 
 $ git clone https://github.com/smart-methods/arduino_robot_arm
 
